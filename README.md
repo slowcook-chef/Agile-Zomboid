@@ -4,8 +4,8 @@ Start an issue if you want it to be tracked/seen.
 ## Issue Labels
 ***Every*** *Issue* will have the following:
 - Definition of Done
+- Reason Why
 - Effort Estimation
-- Priority level
 ### Bounty
 Want to get your dirty hands on a specific item?  
 Create an *Issue* with a *Bounty* label!
