@@ -1,6 +1,6 @@
 ---
 name: Epic Template
-about: Describe this issue template's purpose here.
+about: Dream BIG
 title: Epic for [Settle new safehouse, Clear out all zombies in town, Reinforce the
   entire base, etc.]
 labels: Epic
